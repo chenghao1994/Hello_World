@@ -10,5 +10,6 @@ public class Test {
         System.out.println("hello world");
         System.out.println("Git Branch");
         System.out.println("Get master dev");
+        System.out.println("Git test dev");
     }
 }
